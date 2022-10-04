@@ -1,0 +1,5 @@
+site_name: Utopia Rolplay
+site_url: http://UtopiaRP.nl/
+Nav: 
+    - Home: index.md
+    - About: about.md
